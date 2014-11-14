@@ -1,0 +1,128 @@
+.x-panel-header-text-default,
+.x-panel-header-text-default-framed {
+    font-family: Tahoma;
+    font-size: 16px;
+    color: #333;
+}
+
+.x-grid3-hd-inner {
+  font-size: 16pt !important;
+  font-weight: bold !important;
+}
+
+.x-body {
+    font-family: Tahoma;
+    font-size: 14px;
+    color: #333;
+}
+
+.biggertext
+{
+    font-size: 14px;
+    line-height: 30px;
+} 
+
+.biggertext1
+{
+    font-size: 14px;
+} 
+
+.child-row .x-grid-cell { 
+    background-color: #ddd; 
+    font-size: 14px;
+    color: #090;
+} 
+ 
+.adult-row .x-grid-cell { 
+    background-color: #ecf; 
+    color: #900;
+    font-size: 14px;
+    font-weight: bold; 
+}
+
+
+
+
+.x-grid-row .custom-column { 
+    background-color: #ecf; 
+    color: #090; 
+    font-weight: bold; 
+}
+
+.x-grid-row .custom-column1 { 
+    background-color: #eee; 
+    color: #777; 
+    font-weight: normal;
+}
+.x-grid-row .custom-column2 { 
+    background-color: #ddd; 
+    color: #090; 
+    font-weight: bold; 
+}
+
+.x-grid-row .custom-column3 { 
+    background-color: #eee; 
+    color: #090; 
+    
+}
+
+.price-fall .x-change-cell {
+    background-color: #FFB0C4;
+    color:red;
+}
+.custom-dirty .x-grid-dirty-cell { 
+    background-color: #ffa; 
+    background-position: right center; 
+    background-image: url(/static/lib/silk/bullet_red.png); 
+}
+
+
+.new-tab {
+    background-image:url(images/new_tab.gif) !important;
+}
+
+.tabs {
+    background-image:url(images/tabs.gif ) !important;
+}
+
+.delete {
+    background-image:url(images/delete.png ) !important;
+}
+
+.add {
+    background-image:url(images/add.gif ) !important;
+}
+
+.save {
+    background-image:url(images/save.png ) !important;
+}
+
+.refresh {
+    background-image:url(images/refresh.gif ) !important;
+}
+
+.hmenu-lock {
+    background-image:url(images/hmenu-lock.gif ) !important;
+}
+
+.hmenu-unlock {
+    background-image:url(images/hmenu-unlock.gif ) !important;
+}
+
+.applications-system {
+    background-image:url(images/applications-system.png ) !important;
+}
+
+.scroll {
+    background-image: url(images/arrow_switch.png) !important;
+}
+
+.list {
+    padding-left: 16px;
+    padding-bottom: 10px;
+}
+
+.list li{
+    list-style: square;
+    padding: 2px;
+}
